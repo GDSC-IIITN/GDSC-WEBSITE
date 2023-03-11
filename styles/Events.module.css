@@ -1,0 +1,41 @@
+.Eventspage{
+    width: 100vw;
+    
+}
+.head {
+    display: flex;
+    align-items: center;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+   
+}
+.Headingsection{
+    margin-top: 8%;
+    margin-left: 5%;
+    
+}
+.subhead{
+    font-family: "Roboto";
+}
+.cardsSet{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content:space-evenly;
+}
+.viewmore{
+    text-align: center;
+    margin-top: 3%;
+    color: #0086F8;
+    padding-bottom: 50px;
+}
+.cardsSet2{
+    display: flex;
+    justify-content:space-around;
+    width: 53.899%;
+    flex-wrap: nowrap;
+    
+}

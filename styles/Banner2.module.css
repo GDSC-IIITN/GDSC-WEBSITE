@@ -1,0 +1,38 @@
+.banner{
+    width: 100vw;
+    height: 50vh;
+}
+
+.text{
+    position: relative;
+    text-align: center;
+    
+    font-family: roboto;
+font-size: 35px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.img{
+    position: relative;
+    margin-bottom: 0;
+}
+.halfyellow{
+    margin-left: 10%;
+}
+.redt{
+    margin-left: 70%;
+    margin-top: -5%;
+    width: 327.4822998046875px;
+}
+.blues{
+    height: 90.98515319824219px;
+    width: 417.15802001953125px;
+    margin-left: 50%;
+}
+.greens{
+    margin-left: 80%;
+    margin-top: -6.5%;
+}

@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap");
+
+.team{
+    width: 100vw;
+    margin: 0 3rem;
+    margin-top: 3rem;
+     font-family: 'Roboto';
+    overflow-x:hidden ;
+}
+.secondgrid , .firstgrid{
+    display: flex;
+    justify-content: space-between;
+    gap: 5rem;
+    border-collapse: collapse;width: fit-content;
+    overflow-x:hidden ;
+    padding: 3rem 0;
+
+}
+.box{
+    flex: 1;
+    border: 2px solid black;
+    text-align: center;
+    padding: 3rem 2rem;
+    width: fit-content;
+  }
+  
+  .box2 {
+    flex: 1;
+  margin: 0 10px;
+  border: 2px solid black;
+  text-align: center;
+  padding: 3rem 1rem;
+
+
+
+  }
+  
+  .box3 {
+    flex: 1;
+    margin: 0 10px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 3rem 1rem;
+
+
+    
+
+  }
+  
+  .box4 {
+    flex: 1;
+  margin: 0 10px;
+  border: 2px solid black;
+  text-align: center;
+  padding: 3rem 1rem;
+
+
+  }
+  @media (max-width:768px) {
+    .secondgrid , .firstgrid{
+      display: flex;
+      flex-direction: column;
+      margin: 0 100%;
+    }
+
+  }
+  

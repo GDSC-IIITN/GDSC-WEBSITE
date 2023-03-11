@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap");
+
+.Footer{
+    width: 100%;
+    overflow-x: hidden;
+    margin-top: 7rem;
+    font-family: 'Roboto';
+
+}
+.tt{
+    display: flex;
+    justify-content:space-around ;
+    margin: 5rem 0;
+}
+.font{
+    font-size: 1.4rem;
+    color: black;
+    padding-left: 1rem;
+    
+}
+.font a{
+    color: black;
+    padding: 0 1rem;
+   
+}
+.line{
+    border-top: 2px solid black;
+    margin: 0 4.7%;
+    
+}
